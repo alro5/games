@@ -1,0 +1,8 @@
+### File types
+*.log
+*.sass-cache
+
+
+### Directories
+public/js/build/**
+node_modules/**

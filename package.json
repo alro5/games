@@ -1,14 +1,15 @@
 {
-    "name": "simio",
+    "name": "games",
     "version": "0.1.0",
-    "description": "Simio theme",
+    "description": "games boilerplate",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
+        "nodemon": "nodemon index.js",
         "build": "grunt",
         "watch": "grunt dev",
         "sass:ws": "sass --watch --sourcemap --poll public/sass/app.scss:public/css/all.css",
-        "startup": "npm install && npm run build && npm start"
+        "startup": "npm install && npm run build && npm run nodemon"
     },
     "devDependencies": {
         "grunt": "~0.4.5",
