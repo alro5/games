@@ -8,7 +8,6 @@
         "nodemon": "nodemon index.js",
         "build": "grunt",
         "watch": "grunt dev",
-        "sass:ws": "sass --watch --sourcemap --poll public/sass/app.scss:public/css/all.css",
         "startup": "npm install && npm run build && npm run nodemon"
     },
     "devDependencies": {
