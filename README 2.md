@@ -8,6 +8,7 @@ Dependencies you need on your client before your running
 
     NodeJS v0.10.17 (http://nodejs.org/)
     NPM v1.3.8 (comes with node as of now)
+    Nodemon latest (http://nodemon.io/) for auto restart node server on file changes
     Sass 3.3.7 (http://sass-lang.com/install)
         - This get installed with gems, if running mac you have ruby, 
         if you run windows you need to install ruby first http://rubyinstaller.org/
