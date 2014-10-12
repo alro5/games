@@ -48,7 +48,7 @@ module.exports = function (grunt) {
                 files: {
                     'public/css/all.css': 'public/sass/app.scss'
                 }
-            }
+            } 
         },
         watch: {
             js: {

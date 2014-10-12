@@ -1,6 +1,7 @@
 ### File types
 *.log
 *.sass-cache
+*.sublime-workspace
 
 
 ### Directories
