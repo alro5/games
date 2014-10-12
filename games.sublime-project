@@ -7,7 +7,7 @@
 			"folder_exclude_patterns": [
 				"node_modules", 
 				".sass-cache",
-				"dist"
+				"db"
 			]
 		}
 	],
